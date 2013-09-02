@@ -1,0 +1,19 @@
+{
+  "name": "bower-example-1",
+  "version": "0.1.0",
+  "authors": [
+    "Hugo F Campos <hugofcampos@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "modernizr": "2"    
+  }
+}
