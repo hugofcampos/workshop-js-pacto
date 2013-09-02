@@ -21,7 +21,6 @@ ppw/_themes/trans-page-felipenmoura
 ## Internal use
 ##
 ./.settings/
-/talks/
 !/talks/README
 #/_docs
 .sqldb
