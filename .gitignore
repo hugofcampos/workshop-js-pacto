@@ -1,0 +1,16 @@
+##
+## Development meta files
+##
+*.*~*
+*.*~
+*.swp
+.project
+.DS_Store
+./nbproject
+.buildpath
+.project
+nbproject
+nbproject/*
+npm-debug.log
+node_modules
+bower_components
