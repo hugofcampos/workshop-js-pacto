@@ -5,31 +5,31 @@ Esses exercícios foram criados para exemplificar as técnicas empregadas em apl
 Todos os exemplos possuem documentação de escopo e execução em seus arquivos README.md
 
 ### Links úteis AMD
-[http://goo.gl/Mn01d](Assyncronously Module Definitions - Wiki)
-[http://goo.gl/oQpTw](Writing modular js - Addy Osmani)
-[http://goo.gl/NO3ia2](AMD - Martin Standler)
+[Assyncronously Module Definitions - Wiki](http://goo.gl/Mn01d)
+[Writing modular js - Addy Osmani](http://goo.gl/oQpTw)
+[AMD - Martin Standler](http://goo.gl/NO3ia2)
 
 ### Links úteis Node.js
-[http://goo.gl/3nBP](NodeJS - Oficial)
-[http://goo.gl/WuoGHM](Javascript Moderno - Suissa)
-[http://goo.gl/2UDHi9](Dev Cast Javascript Moderno - Suissa)
-[http://goo.gl/zhH1A](O que exatamente é o Node.js? - IBM)
-[http://goo.gl/GhPco](Node.js for Beginners - Nettuts)
+[NodeJS - Oficial](http://goo.gl/3nBP)
+[Javascript Moderno - Suissa](http://goo.gl/WuoGHM)
+[Dev Cast Javascript Moderno - Suissa](http://goo.gl/2UDHi9)
+[O que exatamente é o Node.js? - IBM](http://goo.gl/zhH1A)
+[Node.js for Beginners - Nettuts](http://goo.gl/GhPco)
 
 ### Links úteis Bower
-[http://goo.gl/RVwco](Bower - Oficial)
-[http://goo.gl/9qAyf](Meet Bower - Nettuts)
+[Bower - Oficial](http://goo.gl/RVwco)
+[Meet Bower - Nettuts](http://goo.gl/9qAyf)
 
 ### Links úteis RequireJS
-[http://goo.gl/ovNO](RequireJS - Oficial)
-[http://goo.gl/d5Bwj](Understanding RequireJS - Site Point)
+[RequireJS - Oficial](http://goo.gl/ovNO)
+[Understanding RequireJS - Site Point](http://goo.gl/d5Bwj)
 
 ### Links úteis Grunt
-[http://goo.gl/pTSlf](Grunt - Oficial)
-[http://goo.gl/mH49Du](Automatizando tarefas com Grunt - Zeno Rocha)
-[http://goo.gl/N7nzqx](Grunt, você deveria estar usando - Tableless)
-[http://goo.gl/s9ztc](Grunt Workflow - merrickchristensen)
-[http://goo.gl/Z7bsU](Meet Grunt - Nettuts)
+[Grunt - Oficial](http://goo.gl/pTSlf)
+[Automatizando tarefas com Grunt - Zeno Rocha](http://goo.gl/mH49Du)
+[Grunt, você deveria estar usando - Tableless](http://goo.gl/N7nzqx)
+[Grunt Workflow - merrickchristensen](http://goo.gl/s9ztc)
+[Meet Grunt - Nettuts](http://goo.gl/Z7bsU)
 
 ### Licença
 MIT
