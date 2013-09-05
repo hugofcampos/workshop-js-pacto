@@ -22,6 +22,8 @@ Todos os exemplos possuem documentação de escopo e execução em seus arquivos
 
 [Node.js for Beginners - Nettuts](http://goo.gl/GhPco)
 
+[PHP vs. Node.js](http://goo.gl/XF3Gsz)
+
 ### Links úteis Bower
 [Bower - Oficial](http://goo.gl/RVwco)
 
